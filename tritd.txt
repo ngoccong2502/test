@@ -1,0 +1,14 @@
+1.Find the users’ needs/wants—It’s easy to assume you know what users want/need and their relevant contexts. Discover their real requirements:
+Observe people.
+Interview people.
+Examine existing solutions—while remembering it’s hard to envisage future needs, technologies, etc.
+2.Do analysis to sort and order your findings so they make sense. This may be through a:
+Narrative/story of how someone uses a system.
+Task analysis, breaking down a user’s steps/sub-steps.
+3.Design a potential solution according to design guidelines and fundamental design principles (e.g., giving appropriate feedback for users’ actions). Use the best techniques to match how users will interact with it in terms of, for example, navigation.
+4.Start prototyping—Give users an idea of what the product will look like and let them test it, and/or give it to experts to evaluate its effectiveness using heuristics.
+5.Implement and deploy what you have built.
+
+
+User-centered design (UCD) is an iterative design process in which designers focus on the users and their needs in each phase of the design process. In UCD, design teams involve users throughout the design process via a variety of research and design techniques, to create highly usable and accessible products for them.
+UCD is an Iterative Process,UCD Considers the Whole User Experience,Investment in UCD Pays off.
